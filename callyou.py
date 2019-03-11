@@ -21,7 +21,7 @@ def ban():
 mmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNyysssshhs++:--///++:---:/+oyyso+++osNNmyhdNMMNNMMMMMMMMMMMMMMM
 dmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMyysssshhs++:--///++:---//+syyso+++oyNNdhhmNMMNMMMMMMMMMMMMMMMM
 ymNMMMMMMMMMMMMMMmddyyyhhdNMMMMMMMMMMMhysssshhs++::-///++:---//+syyso+++ohNNdhhmNMMNMMMMMMMMMMMMMMMM
-+dmNMMMMMMMMMMMmdh+/:--:-::sdMMMMMMMMMdyyssshhy++/:-///++:---//+yyyoo+++odNNhyhmNMNNMMMMMMMMMMMMMMMM
++dmNMMMMMMMMMMMmdh+/:--:-::sdMMMMMMMMMdyyssshhy++/:-///++:---//+yyyoo+++odNNhyhmNMNNMMMMMMMMMMMMMMMM'\033[92m'
 -ymmMMNMMMMMMMMMNy/-..````..-sdNMMMMMMdyysssyhy++/:-///++----//+yyyo++++smNNhhdmMMNMMMMMMMMMMMMMMMMM
 ./hmNMNMMMMMNho:-.```````````/ysosshNMmyssssyhy++/--///o/----//oyyso++++smNmhhdNMMNMMMMMMMMMMMMMMMMM
 ..smmMMNMMMh-.`````````````````.-/odMMNyssssyhy++/--///+/---://oyyso+++oymNmhhdNMMNMMMMMMMMMMMMMMMMM
@@ -43,7 +43,7 @@ oosyhhhhhddyh+::.          ``-:oydmNNmNhssoosyy+//-.//++:---://syyo+//+sdNNhhhNM
 ```````````````+ssyhmh-+`-hmmmmmmmmmdhdmmd-`                 ``:ssss/ohmNNmNNMMMMMMMMMMMMMMMMMMMMMMM
 ``````````````-ooosyhmo.``.hmmdddmmmhhdmNNy.`          ```````.oysso/sdNNNNNMMMMMMMMMMMMMMMMMMMMMMMM
 ````  ````````/oooosyhy`   .ydhdmNNNdyhdmNh```          ``````/yysso/smNMNNNMMMMMMMMMMMMMMMMMMMMMMMM
-```        ```+oo++osyh``   `+hdmmNNNhyyhy-```         ``````.osysso+yNMMNNMMMMMMMMMMMMMMMMMMMMMMMMM
+```        ```+oo++osyh``   `+hdmmNNNhyyhy-```         ``````.osysso+yNMMNNMMMMMMMMMMMMMMMMMMMMMMMMM'\033[93m'
 ``````        /++++oosy.`    `:oyhdmNNs/-`````          `````:ssyys++yNMMNMMMMMMMMMMMMMMMMMMMMMMMMMM
 ``````````    -++++oos+`       `..-/+/.```` `-`       ```````ossyys++hNMMNMMMMMMMMMMMMMMMMMMMMMMMMMM
 ```````````````/+++ooo-             ```````.-/-        `````-ssyyys+odNMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
